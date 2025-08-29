@@ -280,7 +280,7 @@ def process_inputs(
 backend_options = list_backends()
 
 backend_name = gr.Dropdown(
-    label="IBM Backend Name (or 'None' for least busy)",
+    label="IBM Backend Name (or 'None')",
     choices=backend_options,
     value="None",
     visible=False  # Hidden by default
