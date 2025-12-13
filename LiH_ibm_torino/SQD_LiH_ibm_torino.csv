@@ -1,0 +1,2 @@
+id,project_name,experiment_description,epoch,start_time,duration(s),power_consumption(kWh),CO2_emissions(kg),CPU_name,GPU_name,OS,region/country,cost
+69044227-9b1d-481c-9c56-70eb50171c70,SQD_Alain,SQD_LiH_ibm_torino,N/A,2025-12-11 22:46:56,83.31674265861511,0.0008573776584257216,5.789871327348898e-05,"Intel(R) Core(TM) Ultra 9 185H/1 device(s), TDP:45.0", 0 device(s),Linux,FR/Île-de-France,0
