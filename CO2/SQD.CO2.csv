@@ -1,0 +1,2 @@
+id,project_name,experiment_description,epoch,start_time,duration(s),power_consumption(kWh),CO2_emissions(kg),CPU_name,GPU_name,OS,region/country,cost
+702c0dce-785a-4e34-a7d4-27b797cd8bbc,SQD_Alain,SQD_CO2,N/A,2025-12-30 16:09:55,930.7790546417236,0.01413977511490555,0.0009548590135095718,"AMD Ryzen 7 6800H with Radeon Graphics/1 device(s), TDP:45.0",NVIDIA GeForce RTX 3070 Ti Laptop GPU 1 device(s),Linux,FR/Île-de-France,0
